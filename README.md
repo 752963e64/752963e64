@@ -1,7 +1,7 @@
 # 💞️ I’m looking for a job.
 - 👋 Hi, I’m [Awaxx]
 - 👀 I’m interested in prototyping, performance and analysis mainly.
-- Through network, system, storage, sound, graphic, game, web, interface, egine, security, automation.
+- Through network, system, storage, sound, graphic, game, web, interface, engine, security, automation.
 - 🌱 I’m currently learning from my mistakes.
 
 - 📫 How to reach me 752963e64 @ tutanota.com.
