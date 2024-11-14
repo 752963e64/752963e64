@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @752963e64
 - 📫 How to reach me 752963e64@tutanota.com
+- ✨ Pronouns: Where is money?
 - ⚡ Fun fact: I need money.
 
 <!---
