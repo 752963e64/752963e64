@@ -7,11 +7,11 @@
 
 Younger I've played with Amstrad, gameboy, sega, segamegadrive, nes, supernes, dreamcast, nintendo64, xbox, playstation.
 
-Until I had computer around 2000... I was around p2p, torrent and PC games in user mode. :D
+Until I had computer around 2000... I was around p2p, torrent and PC games in user mode.
 
 Until I wanted to be like those guy who knows everything about computing and electronic...
 
-So I "Tried" software security. I was A good script kiddy... however atmospher was strange and I'm super fragile :D
+So I "Tried" software security. I was A good script kiddy... however atmospher was strange and I'm super fragile.
 
 Until I left to learn programming from scratch... no school exp... learning one thing after another drove me into a spiral... no kidding.
 
@@ -21,7 +21,9 @@ Meanwhile since 2000, I saw the web flipping on itself conway's way of life. It'
 
 Telling it like this sounds like a wonderful story... It's not. life is not cool and quiet. I'm born in suburb from stupid copulation... my parent were stupid.
 
-38 yo I'm still alive, smarter and dangerous? :D
+38 yo I'm still alive, smarter and dangerous?
+
+-.-
 
 <!---
 752963e64/752963e64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
