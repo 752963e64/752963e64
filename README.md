@@ -5,7 +5,7 @@
 
 # ✨ About me
 
-Younger I've played with Amstrad, gameboy, sega, gamegear segamegadrive, nes, supernes, dreamcast, nintendo64, xbox, playstation.
+I'm 38yo, younger I've played with Amstrad, gameboy, sega, gamegear segamegadrive, nes, supernes, dreamcast, nintendo64, xbox, playstation.
 
 Until I had computer around 2000... I was around p2p, torrent and PC games in user mode.
 
@@ -22,6 +22,8 @@ Meanwhile since 2000, I saw the web flipping on itself conway's way of life. It'
 Smarter and dangerous?
 
 -.-
+
+![darkness2.0 Honeybadger](./ungenannt-darkness.ans.png)
 
 <!---
 752963e64/752963e64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
