@@ -5,7 +5,7 @@
 
 # ✨ About me
 
-I'm 38yo, younger I've played with Amstrad, gameboy, sega, gamegear segamegadrive, nes, supernes, dreamcast, nintendo64, xbox, playstation.
+I'm 38yo, younger I've played with Amstrad, gameboy, sega, gamegear, segamegadrive, nes, supernes, dreamcast, nintendo64, xbox, playstation.
 
 Until I had computer around 2000... I was around p2p, torrent and PC games in user mode.
 
