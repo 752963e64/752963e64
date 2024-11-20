@@ -5,13 +5,13 @@
 
 # ✨ About me
 
-Younger I've played with Amstrad, gameboy, sega, segamegadrive, nes, supernes, dreamcast, nintendo64, xbox, playstation.
+Younger I've played with Amstrad, gameboy, sega, gamegear segamegadrive, nes, supernes, dreamcast, nintendo64, xbox, playstation.
 
 Until I had computer around 2000... I was around p2p, torrent and PC games in user mode.
 
 Until I wanted to be like those guy who knows everything about computing and electronic...
 
-So I "Tried" software security. I was A good script kiddy... however atmospher was strange and I'm super fragile.
+So I "Tried" software security. I was A good script kiddy... however atmospher was strange and I'm super fragile, not weak; Fragile.
 
 Until I left to learn programming from scratch... no school exp... learning one thing after another drove me into a spiral... no kidding.
 
