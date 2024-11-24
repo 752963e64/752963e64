@@ -3,25 +3,16 @@
 - ✨ Pronouns: Where is money?
 - ⚡ Fun fact: I need money.
 
-# ✨ About me
+# ✨ A wide interest in...
 
-I'm 38yo, younger I've played with Amstrad, gameboy, sega, gamegear, segamegadrive, nes, supernes, dreamcast, nintendo64, xbox, playstation.
+[Information Theory](https://en.wikipedia.org/wiki/Information_theory)
+[Information Processing](https://en.wikipedia.org/wiki/Information_technology)
+[Data Compression](https://en.wikipedia.org/wiki/Data_compression)
+[Mathematics](https://en.wikipedia.org/wiki/Mathematics)
+[Computer Science](https://en.wikipedia.org/wiki/Computer_science)
 
-Until I had computer around 2000... I was around p2p, torrent and PC games in user mode.
-
-Until I wanted to be like those guy who knows everything about computing and electronic...
-
-So I "Tried" software security. I was A good script kiddy... however atmospher was strange and I'm super fragile, not weak; Fragile.
-
-Until I left to learn programming from scratch... no school exp... learning one thing after another drove me into a spiral... no kidding.
-
-It was never enough... From frontend to backend in web to the same in operating system, hardware circuitry, datasheets and driver interface.
-
-Meanwhile since 2000, I saw the web flipping on itself conway's way of life. It's a good experience but also a curse.
-
-Smarter and dangerous?
-
--.-
+[Cybernetics](https://en.wikipedia.org/wiki/Cybernetics)
+![The invention that changed the world!](https://www.youtube.com/watch?v=pQ2dI_B_Ycg)
 
 ![darkness2.0 Honeybadger](./ungenannt-darkness.ans.png)
 
