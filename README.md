@@ -20,38 +20,22 @@
 [The invention that changed the world!](https://www.youtube.com/watch?v=pQ2dI_B_Ycg)
 
 ```
-$ cat m.c 
-#include <stdio.h>
+$ cat m.c
+include <stdio.h>
+#define _ $
+#define o(_)\
+(putchar(_))
+int main(){char *c = "lolhe";o(*(c+3));o(*(c+4));o(*(c));o(*(c+2));o(*(c+1));o(054);o(0x20);c = "rdlw";o(*(c+3));o(*(c+3)-8);o(*(c+4));o(*(c));o(*(c+2));o(*(c+1));o(33);o(0b1010);return linux > unix;}
+```
 
-void main()
-{
-  char *c = "lolhe";
-  putchar(*(c+3));
-  putchar(*(c+4));
-  putchar(*(c));
-  putchar(*(c+2));
-  putchar(*(c+1));
-  putchar(054);
-  putchar(0x20);
-  c = "rdlw";
-  putchar(*(c+3));
-  putchar(*(c+3)-8);
-  putchar(*(c+4));
-  putchar(*(c));
-  putchar(*(c+2));
-  putchar(*(c+1));
-  putchar(33);
-  putchar(0b1010);
-}
-
-$ gcc -o m ./m.c && ./m
+```
+$ gcc -o m ./m.c && ./m && echo $?
 ```
 
 ```
 hello, world!
+0
 ```
-
-
 
 ![darkness2.0 Honeybadger](./ungenannt-darkness.ans.png)
 
