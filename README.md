@@ -19,6 +19,40 @@
 
 [The invention that changed the world!](https://www.youtube.com/watch?v=pQ2dI_B_Ycg)
 
+```
+$ cat m.c 
+#include <stdio.h>
+
+void main()
+{
+  char *c = "lolhe";
+  putchar(*(c+3));
+  putchar(*(c+4));
+  putchar(*(c));
+  putchar(*(c+2));
+  putchar(*(c+1));
+  putchar(054);
+  putchar(0x20);
+  c = "rdlw";
+  putchar(*(c+3));
+  putchar(*(c+3)-8);
+  putchar(*(c+4));
+  putchar(*(c));
+  putchar(*(c+2));
+  putchar(*(c+1));
+  putchar(33);
+  putchar(0b1010);
+}
+
+$ gcc -o m ./m.c && ./m
+```
+
+```
+hello, world!
+```
+
+
+
 ![darkness2.0 Honeybadger](./ungenannt-darkness.ans.png)
 
 <!---
