@@ -30,6 +30,9 @@ I'm not an AI and I don't use AI to generate content I share. I'm not that void.
 I've no interest in AI; for me a program well done always fit any automation process.
 ```
 
+### I'll try to say hello in a different way every night from hand.
+
+"You've to hate things to move on the next one fiting the purpose. Only Aging let you understand this. Just don't be sarcastic."
 
 ```
 $ cat m.c
