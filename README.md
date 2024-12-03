@@ -19,6 +19,15 @@
 
 [The invention that changed the world!](https://www.youtube.com/watch?v=pQ2dI_B_Ycg)
 
+
+```
+I'm self taught engeener in system and network programming with different languages, operating systems since the 2000 era.
+Meanwhile I did website prototypes from the ground up, with and without HTTP server from scratch.
+few years ago I started to have interest in game dev. So makes me a good generalist.
+I read binary/source code like books. I'm not an AI and I don't use AI to generate content I share. I'm not that void...
+```
+
+
 ```
 $ cat m.c
 #include <stdio.h>
