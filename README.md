@@ -21,7 +21,7 @@
 
 
 ```
-I'm self taught engeener in system and network programming with different languages,
+I'm self taught engineer in system and network programming with different languages,
 operating systems since the 2000 era. Meanwhile I did website prototypes from the ground up,
 with and without HTTP server from scratch. Few years ago I started to have interest in game dev.
 So makes me a good generalist. I read binary/source code like books.
