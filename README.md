@@ -23,8 +23,9 @@
 ```
 I'm self taught engineer in system and network programming with different languages,
 operating systems since the 2000 era. Meanwhile I did website prototypes from the ground up,
-with and without HTTP server from scratch. Few years ago I started to have interest in game dev.
-So makes me a good generalist. I read binary/source code like books.
+with and without HTTP server from scratch. I also have a dusty stack pile from prototyping
+devices modules(arduino,buspirate,armv7 RPi like) taking the dust. Few years ago I started
+to have interest in game dev. So makes me a good generalist. I read binary/source code like books.
 I'm not an AI and I don't use AI to generate content I share. I'm not that void...
 I've no interest in AI; for me a program well done always fit any automation process.
 ```
