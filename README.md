@@ -30,9 +30,9 @@ I'm not an AI and I don't use AI to generate content I share. I'm not that void.
 I've no interest in AI; for me a program well done always fit any automation process.
 To be clearer, There is no need a reasoning layer on top algorithm that are already reasoning.
 succinctly:
-- senior system engineer
-- intermediate UX devel
-- intermediate game devel
+- senior system engineer (yeah let's make a crapy programming language jit or not...)
+- intermediate UX devel (U wanna box cliping or do we play texture...)
+- intermediate game devel (this object handles all the pnj on screen...)
 ```
 
 ### I'll try to say hello in a different way every night from hand.
