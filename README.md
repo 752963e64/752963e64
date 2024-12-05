@@ -3,15 +3,13 @@
 - ✨ Pronouns: Where is money?
 - ⚡ Fun fact: I need money.
 
-# ✨ The kernel TEAM is actually SABOTAGING network ROUTING handling. 5/12/2024 :D ✨
-
 # ✨ You must master programming, To modify their modifications ✨
 
 ```
 The trick is that they forces you to let 4228250625 ip soliciting you when you don't want to for no appearing reason...
 And so, you need a firewall solution... or other services for noobs passing thru the network... OKAY OKAY action recorded and well understood. :D
 
-My trick were decimating a whole range of uneeded problems... They adding problems... GO UNDERSTAND SOMETHING... :D
+My trick were decimating a whole range of uneeded problems... but it limited for an obscure reason that I don't fucking understand... AND I NEED FUCKING SLEEP! GO UNDERSTAND SOMETHING... :D
 ```
 
 [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
