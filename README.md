@@ -1,11 +1,14 @@
+# Life Is One Long Intelligence Test
+
 - 👋 Hi, I’m @752963e64
 - 📫 How to reach me 752963e64@tutanota.com
 - ✨ Pronouns: Where is money?
 - ⚡ Fun fact: I need money.
 - ✨ I'm POLYGLOT with both natural and programming languages ✨
 - ✨ I don't come from cozy... younger fridge was void, parent absent. And I know the street! ✨
-- ✨ I didn't go to school... when I was supposed to be at school I was hanging outside... when I was in class I was drawing graffiti and comics. Nowaday I don't draw anymore, Mainly because french POLICE took my drawing BOOK which were containing years of drawing... TWENTY YEARS AGO :D ✨
+- ✨ I didn't go to school... ✨
 - ✨ I don't need diploma to prove myself I'm DAMN CLEVER :D ✨
+- ✨ Diploma is the academic investment you put to get rewarded from those sustaining school walls... Their biz ain't about being capable It's just about money... :D ✨
 
 ### ✨ You must master programming, To modify their modifications ✨
 
