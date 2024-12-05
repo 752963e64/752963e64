@@ -2,6 +2,8 @@
 - 📫 How to reach me 752963e64@tutanota.com
 - ✨ Pronouns: Where is money?
 - ⚡ Fun fact: I need money.
+- ✨ I'm POLYGLOT with both natural and programming languages ✨
+- ✨ I don't come from cozy... younger fridge was void, parent absent. And I know the street! ✨
 
 ### ✨ You must master programming, To modify their modifications ✨
 
