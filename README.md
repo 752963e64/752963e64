@@ -7,6 +7,10 @@
 
 # ✨ You must master programming, To modify their modifications ✨
 
+```
+The trick is that they forces you to let 4228250625 ip soliciting you when you don't want to for no appearing reason...
+```
+
 [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
 
 [Information Processing](https://en.wikipedia.org/wiki/Information_technology)
