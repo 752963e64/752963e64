@@ -11,7 +11,7 @@
 
 ```
 Why, how, lookup, understand, masters! Is my Mojo.
-It applies naturally all the times to everything, even If I'm not looking to.
+It applies naturally all the time to everything, even If I'm not looking to.
 ```
 
 [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
