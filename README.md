@@ -3,14 +3,9 @@
 - ✨ Pronouns: Where is money?
 - ⚡ Fun fact: I need money.
 
-# ✨ You must master programming, To modify their modifications ✨
+### ✨ You must master programming, To modify their modifications ✨
 
-```
-The trick is that they forces you to let 4228250625 ip soliciting you when you don't want to for no appearing reason...
-And so, you need a firewall solution... or other services for noobs passing thru the network... OKAY OKAY action recorded and well understood. :D
-
-My trick were decimating a whole range of uneeded problems... but it limited for an obscure reason that I don't fucking understand... AND I NEED FUCKING SLEEP! GO UNDERSTAND SOMETHING... :D
-```
+### ⚡ Don't trust anything before deep inspection analysis... ⚡
 
 [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
 
