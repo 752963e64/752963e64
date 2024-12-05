@@ -43,6 +43,7 @@ I've no interest in AI; for me a program well done always fit any automation pro
 To be clearer, There is no need a reasoning layer on top algorithm that are already reasoning.
 succinctly:
 - senior system engineer (yeah let's make a crapy programming language jit or not...)
+- senior security engineer (I don't write toys, I lock up things you wont bypass, because I can't too...)
 - intermediate UX devel (U wanna box cliping or do we play texture, the DE toolkit? maybe...)
 - intermediate game devel (this object handles all the pnj on screen...)
 ```
