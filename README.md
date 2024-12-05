@@ -4,7 +4,8 @@
 - ⚡ Fun fact: I need money.
 - ✨ I'm POLYGLOT with both natural and programming languages ✨
 - ✨ I don't come from cozy... younger fridge was void, parent absent. And I know the street! ✨
-- ✨ I didn't go to school... when I was supposed to be at school I was hanging outside... I don't need diploma to prove myself I'm DAMN CLEVER :D ✨
+- ✨ I didn't go to school... when I was supposed to be at school I was hanging outside... when I was in class I was drawing graffiti and comics. Nowaday I don't draw anymore. ✨
+- ✨ I don't need diploma to prove myself I'm DAMN CLEVER :D ✨
 
 ### ✨ You must master programming, To modify their modifications ✨
 
