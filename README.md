@@ -9,6 +9,7 @@
 
 ```
 The trick is that they forces you to let 4228250625 ip soliciting you when you don't want to for no appearing reason...
+And so, you need a firewall solution... or other services for noobs passing thru the network... OKAY OKAY action recorded and well understood. :D
 ```
 
 [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
