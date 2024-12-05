@@ -3,7 +3,9 @@
 - ✨ Pronouns: Where is money?
 - ⚡ Fun fact: I need money.
 
-# ✨ A wide interest in...
+# ✨ The kernel TEAM is actually SABOTAGING network ROUTING handling. 5/12/2024 :D ✨
+
+# ✨ You must master programming, To modify their modifications ✨
 
 [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
 
