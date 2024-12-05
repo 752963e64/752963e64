@@ -5,7 +5,10 @@
 
 ### ✨ You must master programming, To modify their modifications ✨
 
-### ⚡ Don't trust anything before deep inspection analysis... ⚡
+### ⚡ Don't trust *anything before deep inspection analysis... ⚡
+
+- ⚡ ANYTHING is also PERSONA... ⚡
+
 ```
 Why, how, lookup, understand, masters! Is my Mojo.
 It applies naturally all the times to everything, even If I'm not looking to.
