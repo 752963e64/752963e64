@@ -25,7 +25,9 @@ It applies naturally all the time to everything, even If I'm not looking to.
 ### late route analysis with kernel 6.12...
 
 ```
-I don't want to cover my eyes or my ears to avoid your solicitations(firewall lvl)... I prefer when you don't even exist(route lvl)...  and it's how it should have been... DAMN IT. :D
+I don't want to cover my eyes or my ears to avoid your solicitations(firewall lvl)...
+I prefer when you don't even exist(route lvl)...  and it's how it should have been... DAMN IT. :D
+
 Network noobs that you are... :D
 ```
 
