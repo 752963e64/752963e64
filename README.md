@@ -22,28 +22,20 @@ Why, how, lookup, understand, masters! Is my Mojo.
 It applies naturally all the time to everything, even If I'm not looking to.
 ```
 
-### late route analysis with kernel 6.12...
-
 ```
-I don't want to cover my eyes or my ears to avoid your solicitations(firewall lvl)...
-I prefer when you don't even exist(route lvl)...  and it's how it should have been... DAMN IT. :D
+OKAY I was wrong... :D This damn route processing over complicated software was hard to tame AGAIN.
+I'm not learning... I redo what I did longtime ago... hadn't NOTED shit... :D
 
-Open? to solicitation. (paquets filtering :D)
-Close? solicitation less, private! (paquets doesn't exist... unwanted USELESS...)
-Close? is like not existing as no solicitation can be answered.
-Open? to a routed private(paquets filtered) without any UNWANTED solicitations :)
+ip route add <GATEWAY> dev eth0
+ip route add <RHOST> via <GATEWAY> dev <IFACE>  metric 1 onlink
+ip route del default
 
-That's the answer of a life wasted on paquet filtering... Thanks to the cobaye who played the game... :D
+# iptables -t filter -nvL
+0     0 LOG        0    --  *      *       0.0.0.0/0            0.0.0.0/0            limit: avg 1/sec burst 5 LOG flags 0 level 4
+0     0 DROP       0    --  *      *       0.0.0.0/0            0.0.0.0/0
 
-NOw the retribution has landed succinctly...
-
-You'll have to answer many Questions to those you obliged to use your shitty network processing...
-That I master since a while now... Theory and her application... :D
-
-Network noobs that you are... :D
+Say goodbye to all your useless filtering... wire up to friend and forget the fuckers...
 ```
-
-[Hope you comprehend well what I'm trying to show you...](https://github.com/752963e64/journal/blob/main/God_why_the_path_vanishing_I_came_from_there.md)
 
 # Interested in...
 
