@@ -28,6 +28,18 @@ It applies naturally all the time to everything, even If I'm not looking to.
 I don't want to cover my eyes or my ears to avoid your solicitations(firewall lvl)...
 I prefer when you don't even exist(route lvl)...  and it's how it should have been... DAMN IT. :D
 
+Open? to solicitation. (paquets filtering :D)
+Close? solicitation less, private! (paquets doesn't exist... unwanted USELESS...)
+Close? is like not existing as no solicitation can be answered.
+Open? to a routed private(paquets filtered) without any UNWANTED solicitations :)
+
+That's the answer of a life wasted on paquet filtering... Thanks to the cobaye who played the game... :D
+
+NOw the retribution has landed succinctly...
+
+You'll have to answer many Questions to those you obliged to use your shitty network processing...
+That I master since a while now... Theory and her application... :D
+
 Network noobs that you are... :D
 ```
 
