@@ -11,7 +11,7 @@
 - ✨ Diploma is the academic investment you put to get rewarded from those sustaining school walls... Their biz ain't about being capable It's just about money... :D ✨
 - ✨ You can be smarter in some conditions without diploma that it's gonna be meaningless to your life lvl... However them learning from you are right placed to grab the good... and you'll maybe have ovation when you will be dead dead from starving since a while... That's how it works... no shit! :D ✨
 
-### ✨ You must master programming, To modify their modifications ✨
+### ✨ You must master programming ✨
 
 ### ⚡ Don't trust *anything before deep inspection analysis... ⚡
 
