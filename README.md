@@ -22,6 +22,17 @@ Why, how, lookup, understand, masters! Is my Mojo.
 It applies naturally all the time to everything, even If I'm not looking to.
 ```
 
+### late route analysis with kernel 6.12...
+
+```
+I don't want to cover my eyes or my ears to avoid your solicitations(firewall lvl)... I prefer when you don't even exist(route lvl)...  and it's how it should have been... DAMN IT. :D
+Network noobs that you are... :D
+```
+
+[Hope you comprehend well what I'm trying to show you...](https://github.com/752963e64/journal/blob/main/God_why_the_path_vanishing_I_came_from_there.md)
+
+# Interested in...
+
 [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
 
 [Information Processing](https://en.wikipedia.org/wiki/Information_technology)
