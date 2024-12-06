@@ -22,21 +22,6 @@ Why, how, lookup, understand, masters! Is my Mojo.
 It applies naturally all the time to everything, even If I'm not looking to.
 ```
 
-```
-OKAY I was wrong... :D This damn route processing over complicated software was hard to tame AGAIN.
-I'm not learning... I redo what I did longtime ago... hadn't NOTED shit... :D
-
-ip route add <GATEWAY> dev eth0
-ip route add <RHOST> via <GATEWAY> dev <IFACE>  metric 1 onlink
-ip route del default
-
-# iptables -t filter -nvL
-0     0 LOG        0    --  *      *       0.0.0.0/0            0.0.0.0/0            limit: avg 1/sec burst 5 LOG flags 0 level 4
-0     0 DROP       0    --  *      *       0.0.0.0/0            0.0.0.0/0
-
-Say goodbye to all your useless filtering... wire up to friend and forget the fuckers...
-```
-
 # Interested in...
 
 [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
