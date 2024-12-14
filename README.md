@@ -1,3 +1,7 @@
+![Top Langs](https://github-readme-stats.vercel.app/api?username=752963e64&show_icons=true&hide=prs)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=752963e64&show_icons=true&card_width=445&layout=compact)
+
 # Life Is One Long Intelligence Test
 
 - 👋 Hi, I’m @752963e64
