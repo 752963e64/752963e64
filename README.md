@@ -63,7 +63,7 @@ These 2 cat. are more like local playground... graphics Is HIGHLY FLAWED FROM TH
 - intermediate game devel (this object handles all the pnj on screen...)
 ```
 
-### I'll try to say hello in a different way every night from hand.
+### I'll not try to say hello in a different way every night from hand.
 
 "You've to hate things to move on the next one fiting the purpose. Only Aging let you understand this. Just don't be sarcastic."
 
