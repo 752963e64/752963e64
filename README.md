@@ -52,15 +52,14 @@ Yeah I did bitcoin before inflation, I even hacked first btc protocol...
 I've been stole by Crypsty, Coinex.pw, Cex.io... then I left crypto.
 Few years ago I started to have interest in game dev. So makes me a good generalist.
 I read binary/source code like books.
-I'm not an AI and I don't use AI to generate content I share. I'm not that void...
-I've no interest in AI; for me a program well done always fit any automation process.
+For me a program well done always fit any automation process.
 To be clearer, There is no need a reasoning layer on top algorithm that are already reasoning.
 succinctly:
 - senior system engineer (yeah let's make a crapy programming language jit or not...)
 - senior security engineer (I don't write toys, I lock up things you wont bypass, because I can't too...)
 These 2 cat. are more like local playground... graphics Is HIGHLY FLAWED FROM THE GROUND UP... :D
 - intermediate UX devel (U wanna box cliping or do we play texture, the DE toolkit? maybe...)
-- intermediate game devel (this object handles all the pnj on screen...)
+- intermediate game devel (I wanna make things decently(no boring context), untwisted like the madness you can find around...)
 ```
 
 ### I'll not try to say hello in a different way every night from hand.
